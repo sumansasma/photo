@@ -1,0 +1,1 @@
+alert("If you are in mobile device then please select desktop view for getting better view!")
